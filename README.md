@@ -1,4 +1,4 @@
-#latihan 1
+#latihan 1 
 Latihan 1 #cara menggunakan git
 •	Pertama kita harus mendownload aplikasi git, dengan membuka website resminya (git-scm.com)  
 •	Kita install terlebih dahulu
