@@ -9,8 +9,10 @@
 ![1](https://user-images.githubusercontent.com/56200287/66642740-846bc800-ec47-11e9-90a2-7f3d3380bb2d.PNG)
 
 •	Setelah selesai mendownload , kita install terlebih dahulu
-•	Setelah terinstall, kita lakukan configurasi user.name dan user.email. perintah yang harus ditulis adalah : _**(gitconfig -–global user.name “name_user”)
-                          (gitconfig –-global user.emai “email_user")**_
+•	Setelah terinstall, kita lakukan configurasi user.name dan user.email. perintah yang harus ditulis adalah :
+
+_**(gitconfig -–global user.name “name_user”)
+   (gitconfig –-global user.emai “email_user")**_
                           
 ![2](https://user-images.githubusercontent.com/56200287/66642748-89307c00-ec47-11e9-81d6-8246280df052.PNG)                          
  
